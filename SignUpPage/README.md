@@ -8,31 +8,25 @@
 
   ### 0. Main
 
-![main](img/main.png)
-
-
-
-
+![main](../img/main.png)
 
 ### 1. Overview 
 
 - Check all students' personal information and test results
 
-![overview](img/overview.png)
+![overview](../img/overview.png)
 
 
 
 - See the results with graphs
 
-  ![graphs](img/graphs.png)
+  ![graphs](../img/graphs.png)
 
   
 
 - Export results to text file
 
-  ![Export](img/Export.png)
-
-
+  ![Export](../img/Export.png)
 
 
 
@@ -40,7 +34,7 @@
 
 - Can modify students information
 
-![personalInfo](img/personalInfo.png)
+![personalInfo](../img/personalInfo.png)
 
 
 
@@ -50,4 +44,4 @@
 
 - Mark students' answer file(only multiple choice questions)
 
-![testMark](img/testMark.png)
+![testMark](../img/testMark.png)
