@@ -10,7 +10,7 @@
 
 - List of countries
 
-![Screen Shot 2018-05-28 at 8.32.53 AM](../img/Screen Shot 2018-05-28 at 8.32.53 AM.png)
+![weather1](../img/weather1.png)
 
 
 
@@ -18,13 +18,13 @@
 
 - List of cities
 
-![Screen Shot 2018-05-28 at 8.20.41 AM](../img/Screen Shot 2018-05-28 at 8.20.41 AM.png)
+![weather2](../img/weather2.png)
 
 
 
 ### 3. a city details
 
-![Screen Shot 2018-05-28 at 8.20.50 AM](../img/Screen Shot 2018-05-28 at 8.20.50 AM.png)
+![weather3](../img/weather3.png)
 
 
 
